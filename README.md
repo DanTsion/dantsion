@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VueJs,webComponents, Stencil, Storybook**
 
-- 📫 How to reach me **Mimouni.daniel@gmail.com**
+- 📫 How to reach me **mimouni.daniel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
