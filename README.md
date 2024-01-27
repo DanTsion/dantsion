@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **SynApp**
 
-- ♥️♥♥️ My beloved stack ? .net core & angular !
+- ♥️ ♥ ♥️ My beloved stack ? ➡️ .net core & angular !
 
 - 🌱 I’m currently learning **VueJs,webComponents, Stencil, Storybook**
 
-- 📫 How to reach me **mimouni.daniel@gmail.com**
+- 📫 How to reach me ➡️ **mimouni.daniel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
