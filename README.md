@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from Marseille, France</h3>
+<h3 align="center">A passionate full-stack developer from Marseille, France</h3>
 
 - 🔭 I’m currently working on **SynApp**
+
+- ♥️♥♥️ My beloved stack ? .net core & angular !
 
 - 🌱 I’m currently learning **VueJs,webComponents, Stencil, Storybook**
 
