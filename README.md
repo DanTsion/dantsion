@@ -5,7 +5,7 @@
 
 - ♥️ ♥ ♥️ My beloved stack ? ➡️ .net core & angular !
 
-- 🌱 I’m currently learning **VueJs,webComponents, Stencil, Storybook**
+- 🌱 I’m currently working **VueJs,webComponents, Stencil, Storybook & Astro with nano store !**
 
 - 📫 How to reach me ➡️ **mimouni.daniel@gmail.com**
 
