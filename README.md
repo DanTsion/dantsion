@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate full-stack developer from Marseille, France</h3>
 
-- 🔭 I’m currently working on **SynApp**
+- 🔭 I’m currently working on **SynApp** https://synapp.me
 
 - ♥️ ♥ ♥️ My beloved stack ? ➡️ .net core & angular !
 
